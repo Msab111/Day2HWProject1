@@ -16,14 +16,12 @@ public void divid1 (int a, int b) {
 
 
 
-public void divid2 (int a, int b) {
-	
-	System.out.println (a/b);
-
-
-}
 
 
 
 }
+
+
+
+
 
